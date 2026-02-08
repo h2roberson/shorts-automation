@@ -1,0 +1,7 @@
+openai
+requests
+moviepy==1.0.3
+proglog
+imageio==2.33.1
+imageio-ffmpeg
+python-dotenv
